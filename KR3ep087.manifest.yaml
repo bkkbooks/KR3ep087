@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep087_000.yaml, hash: 'sha256:71d44230811960e5385001523c7cfbde44c734edb5a0c1434c28b8f3451dd6c2'}
+  - {seq: 0, filename: KR3ep087_000.yaml, hash: 'sha256:01d6e47cb5ddbc1cb6fa799e3f230e97553b640ee54827a4754f8e9535b63bea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep087_000.markers.yaml, hash: 'sha256:d73812d889718a6c7a1d0a68d56c897744db48eb2798441274d59a3862112426'}
+  - {seq: 0, role: markers, filename: assets/KR3ep087_000.markers.yaml, hash: 'sha256:6ae20db94749207b549ddaf9d8093b1fe4606e734e042718edf701afde9ede49'}
 table_of_contents:
 - ref:
     seq: 0
@@ -601,7 +601,4 @@ table_of_contents:
   label: 附刻許辛木農部札
   type: section
   level: 1
-hash: sha256:a18eba182294026afc7b066d75d71862582f88babbe22b843d20466a71ce4f22
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:99f679bc01980f1248aa188f0a573f39461357179a6f56a728f2cba41dea8e33
