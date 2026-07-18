@@ -8740,27 +8740,35 @@ markers:
   - {type: punctuation, offset: 21961, content: （, id: KR3ep087_jc_000-bkkpn4241}
   - {type: 'tls:seg', offset: 21965, content: '', id: KR3ep087_jc_000-d57.p6s3}
   - {type: punctuation, offset: 21967, content: (, id: KR3ep087_jc_000-bkkpn4242}
+  - {type: voice, offset: 21967, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 21969, content: ), id: KR3ep087_jc_000-bkkpn4243}
   - {type: 'tls:seg', offset: 21969, content: '', id: KR3ep087_jc_000-d57.p6s4}
   - {type: punctuation, offset: 21971, content: (, id: KR3ep087_jc_000-bkkpn4244}
+  - {type: voice, offset: 21971, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 21973, content: ), id: KR3ep087_jc_000-bkkpn4245}
   - {type: 'tls:seg', offset: 21973, content: '', id: KR3ep087_jc_000-d57.p6s5}
   - {type: punctuation, offset: 21975, content: (, id: KR3ep087_jc_000-bkkpn4246}
+  - {type: voice, offset: 21975, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 21977, content: ), id: KR3ep087_jc_000-bkkpn4247}
   - {type: 'tls:seg', offset: 21977, content: '', id: KR3ep087_jc_000-d57.p6s6}
   - {type: punctuation, offset: 21979, content: (, id: KR3ep087_jc_000-bkkpn4248}
+  - {type: voice, offset: 21979, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 21981, content: ), id: KR3ep087_jc_000-bkkpn4249}
   - {type: 'tls:seg', offset: 21981, content: '', id: KR3ep087_jc_000-d57.p6s7}
   - {type: punctuation, offset: 21983, content: (, id: KR3ep087_jc_000-bkkpn4250}
+  - {type: voice, offset: 21983, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 21985, content: ), id: KR3ep087_jc_000-bkkpn4251}
   - {type: 'tls:seg', offset: 21985, content: '', id: KR3ep087_jc_000-d57.p6s8}
   - {type: punctuation, offset: 21988, content: (, id: KR3ep087_jc_000-bkkpn4252}
+  - {type: voice, offset: 21988, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 21990, content: ), id: KR3ep087_jc_000-bkkpn4253}
   - {type: 'tls:seg', offset: 21990, content: '', id: KR3ep087_jc_000-d57.p6s9}
   - {type: punctuation, offset: 21992, content: (, id: KR3ep087_jc_000-bkkpn4254}
+  - {type: voice, offset: 21992, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 21994, content: ), id: KR3ep087_jc_000-bkkpn4255}
   - {type: 'tls:seg', offset: 21994, content: '', id: KR3ep087_jc_000-d57.p6s10}
   - {type: punctuation, offset: 21996, content: (, id: KR3ep087_jc_000-bkkpn4256}
+  - {type: voice, offset: 21996, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 21998, content: ), id: KR3ep087_jc_000-bkkpn4257}
   - {type: 'tls:seg-end', offset: 21998, content: '', id: KR3ep087_jc_000-d57.p6s10_end, seg_type: comm}
   - {type: xml-element, offset: 21998, content: '', id: KR3ep087_jc_000-d57p6_end, name: p, role: close, attrs: {'xml:id': KR3ep087_jc_000-d57p6}}
@@ -9015,10 +9023,12 @@ markers:
   - {type: punctuation, offset: 22666, content: ，, id: KR3ep087_jc_000-bkkpn4378}
   - {type: 'tls:seg', offset: 22666, content: '', id: KR3ep087_jc_000-d59.p8s2}
   - {type: punctuation, offset: 22672, content: (, id: KR3ep087_jc_000-bkkpn4379}
+  - {type: voice, offset: 22672, length: 2, name: note, id: n9}
   - {type: punctuation, offset: 22674, content: ), id: KR3ep087_jc_000-bkkpn4380}
   - {type: punctuation, offset: 22674, content: 、, id: KR3ep087_jc_000-bkkpn4381}
   - {type: 'tls:seg', offset: 22674, content: '', id: KR3ep087_jc_000-d59.p8s3}
   - {type: punctuation, offset: 22679, content: (, id: KR3ep087_jc_000-bkkpn4382}
+  - {type: voice, offset: 22679, length: 1, name: note, id: n10}
   - {type: punctuation, offset: 22680, content: ), id: KR3ep087_jc_000-bkkpn4383}
   - {type: punctuation, offset: 22685, content: ，, id: KR3ep087_jc_000-bkkpn4384}
   - {type: 'tls:seg', offset: 22685, content: '', id: KR3ep087_jc_000-d59.p8s4}
@@ -9040,4 +9050,4 @@ markers:
   - {type: 'tls:seg', offset: 22729, content: '', id: KR3ep087_jc_000-d59.p10s1}
   - {type: xml-element, offset: 22736, content: '', id: KR3ep087_jc_000-d59p10_end, name: p, role: close, attrs: {'xml:id': KR3ep087_jc_000-d59p10}}
   back: []
-hash: sha256:d91b5cf21c1f3381d4417f51ee20938623a11f669d860d9e33969ee9752a9ba9
+hash: sha256:cec9d75b8127a2c3d14f912d23acc516186bed0a40c4c3a803a1f936915e3b2b

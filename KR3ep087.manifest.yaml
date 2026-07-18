@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep087_000.yaml, hash: 'sha256:3af8f97a060413b1785ce34f452b71ae20d541f853f9364f951b01251e7a6444'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep087_000.markers.yaml, hash: 'sha256:05c9e0b428d0c7c8097c09fe083870e9d5f810cddad941a20f5eb3e8c205c97d'}
+  - {seq: 0, role: markers, filename: assets/KR3ep087_000.markers.yaml, hash: 'sha256:9481e224b91179b9424a43006d2731917ad06c57d0b9d5daa1638190e1e8807b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -601,7 +601,7 @@ table_of_contents:
   label: 附刻許辛木農部札
   type: section
   level: 1
-hash: sha256:605a8f81cbfa9f9d68f061d67cba2126ebad0b5d96274c283656356e05625072
+hash: sha256:46a87329f4dfc2da241e1462e06d03c87691282c9854f741a924e6d5e23ddfd8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
